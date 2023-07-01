@@ -23,7 +23,7 @@ class Program
         }
         else
         {
-            Console.WriteLine("Нецелое число");
+            Console.WriteLine("Нецелое число1");
 
         }
         Console.ReadKey();
